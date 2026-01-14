@@ -31,7 +31,9 @@ python wuxing_core_paradigm.py 庚申 丁亥 丙戌 己丑
 **格局落位**: 财杀涤荡格·土为枢纽  
 **核心公式**: 资源流(88%) × 压力流(82%) × 转化率(78%) ÷ 能耗(70%) ≈ 系统心智通量(0.7)  
 **诗化封装**: 土纳泾渭，生化无言——它不分辨清流与浊浪，只负责让所有经过的，都长出点什么。
-📹 [观看30秒演示](https://raw.githubusercontent.com/xuniuniu101/wuxing-persona-compiler/refs/heads/main/demo.mp4)
+
+### 🔍 30秒功能演示
+<video controls width="600" src="https://raw.githubusercontent.com/xuniuniu101/wuxing-persona-compiler/main/demo.mp4"></video>
 
 本项目采用 MIT 协议 开源。您可以自由地使用、修改和分发代码，但请务必保留原始的版权声明和许可协议。
 
